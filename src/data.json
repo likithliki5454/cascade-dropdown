@@ -1,0 +1,60 @@
+[
+    {
+      "state": "Gujarat",
+      "institutes": [
+        {
+          "id": 1,
+          "Name": "Gujarat Institute",
+          "grad": "A"
+
+        },
+        {
+            "id": 2,
+            "Name": "North Gujarat Uni.",
+            "grad": "B"
+        },
+        {
+            "id": 2,
+            "Name": "MS Uni.",
+            "grad": "A"
+        }
+      ]
+    },
+    {
+      "state": "Delhi",
+      "institutes": [
+        {
+            "id": 3,
+            "Name": "Delhi Uni",
+            "grad": "C"
+  
+          },
+          {
+              "id": 4,
+              "Name": "JN Uni.",
+              "grad": "D"
+          }
+      ]
+    },
+
+    {
+        "state": "Maharastra",
+        "institutes": [
+          {
+              "id": 3,
+              "Name": "Mumbai Uni",
+              "grad": "E"
+    
+            },
+            {
+                "id": 4,
+                "Name": "Pune Uni",
+                "grad": "E"
+            }
+        ]
+      }
+
+  ]
+
+
+
